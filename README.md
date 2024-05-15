@@ -1,4 +1,9 @@
-```js
-console.log("Hello_World.");
-```
-![banner](https://github.com/jpmarquesss/joaopedromarques/assets/114203867/0b1132a6-50dd-4ca3-b74a-82560686be8e)
+<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
+
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header2.png?raw=true"/>
+</div>
+
+-----

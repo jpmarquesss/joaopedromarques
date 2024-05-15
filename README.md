@@ -1,4 +1,4 @@
 ```js
 console.log("Sim eu sou hacker.");
 ```
-![banner](https://github.com/jpmarquesss/joaopedromarques/banner.png](https://github.com/jpmarquesss/joaopedromarques/blob/main/banner.png)
+![banner](https://github.com/jpmarquesss/joaopedromarques/assets/114203867/0b1132a6-50dd-4ca3-b74a-82560686be8e)
